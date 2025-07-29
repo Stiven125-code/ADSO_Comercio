@@ -1,0 +1,55 @@
+body {
+    background-image: url(/imagenes/abstract-fractal-cgi-colors-1074640.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header {
+    background-color:rgb(255, 35, 6) ;
+    max-width: 1800px;
+    color: white;
+    border-radius: 12px;
+    padding: 10px;
+    text-align: center;
+}
+nav {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+nav li{
+    text-decoration: none;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 auto;
+
+}
+nav ul{
+    list-style: ;
+}
+main{
+    width: 90%;
+    margin: 0 auto;
+    background-image: url(/imagenes/abstract-fraktal-linii-strelki-geometricheskii-rozovii-blesk-122188.jpeg);
+    background-position: center;
+    padding: 10px;
+    border-radius: 12px;
+}
+section {
+    width: 80%;
+    padding: 12px;
+    border-radius: 12px;
+    background-color: rgb(0, 255, 200);
+    margin: 0 auto;
+    box-shadow: 0 5px 12px blue;
+    text-align: center;
+}
+footer{
+    width: 100%;
+    padding: 6px;
+    text-align: center;
+    background-color: rgb(245, 111, 111);
+    font-size: 15px;
+    color: white;
+}
